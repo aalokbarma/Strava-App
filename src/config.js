@@ -1,0 +1,5 @@
+export default {
+    STRAVA_CLIENT_ID: process.env.VUE_APP_STRAVA_CLIENT_ID,
+    STRAVA_CLIENT_SECRET: process.env.VUE_APP_STRAVA_CLIENT_SECRET,
+    REDIRECT_URI: process.env.VUE_APP_REDIRECT_URI,
+  };
